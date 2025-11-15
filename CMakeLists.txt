@@ -22,5 +22,5 @@ set(HEADERS
 
 add_executable(phonebook ${SOURCES} ${HEADERS})
 
-# Устанавливаем директорию данных
+
 target_include_directories(phonebook PRIVATE src)
