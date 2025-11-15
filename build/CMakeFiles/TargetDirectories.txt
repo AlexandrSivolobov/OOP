@@ -1,0 +1,3 @@
+C:/Users/PC/Desktop/KursovayRabota/build/CMakeFiles/phonebook.dir
+C:/Users/PC/Desktop/KursovayRabota/build/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/KursovayRabota/build/CMakeFiles/rebuild_cache.dir
